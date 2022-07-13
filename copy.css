@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to bottom, #ff0066 0%, #ffff00 100%);
+}
+h1{
+    text-align: center;
+}
+.one,.two,.three{
+    text-align: center;
+    margin: 10px;
+}
+#btn{
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: #ffff00;
+    color: blue;
+    cursor:copy;
+    box-shadow: inset;
+}
+#btn:hover{
+    background-color: #ffd000;
+    color: #000000;
+}
